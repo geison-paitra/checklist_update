@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "latest_version": "2.1.2.1",
+  "importance": "normal",
+  "title": "Nova versão disponível",
+  "message": "Existe uma nova versão do Checklist Oracle Portable disponível.",
+  "published_at": "2026-09-18",
+  "details_url": "https://github.com/geison-paitra/checklist_update",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": "",
+    "message": ""
+  }
+}

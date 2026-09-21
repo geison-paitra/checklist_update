@@ -2,16 +2,19 @@
 
 Este repositório publica o arquivo de metadados usado pelo Checklist Oracle Portable para **informar** quando existe uma versão mais nova. O aplicativo não baixa nem instala atualizações automaticamente.
 
+> Só altere `latest_version` depois que a nova versão tiver sido testada e aprovada.
+
 ## Arquivo `update.json`
 
 Campos principais:
 
-- `latest_version`: versão mais recente publicada, por exemplo `2.1.2.1`.
+- `latest_version`: última versão aprovada para divulgação.
 - `importance`: use `normal` para atualização comum ou `important` para destacar que a atualização deve ser aplicada assim que possível.
 - `title`: título exibido no aviso.
 - `message`: mensagem adicional opcional exibida junto ao aviso.
 - `published_at`: data de publicação.
-- `details_url`: link opcional para mais informações.
+
+O aplicativo mostra apenas as informações do aviso; não exibe link para este repositório.
 
 ## Mensagem personalizada
 

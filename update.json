@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.1.2.1",
+  "latest_version": "2.1.2.3",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Existe uma nova versão do Checklist Oracle Portable disponível.",
-  "published_at": "2026-09-18",
+  "message": "Preparação e testes para implementação de tema escuro.",
+  "published_at": "2026-09-21",
   "announcement": {
     "enabled": false,
     "id": "",

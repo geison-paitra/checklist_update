@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.1.2.3",
+  "latest_version": "2.2.0.0",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Preparação e testes para implementação de tema escuro.",
-  "published_at": "2026-09-21",
+  "message": "Implementação de backup.",
+  "published_at": "2026-09-22",
   "announcement": {
     "enabled": false,
     "id": "",

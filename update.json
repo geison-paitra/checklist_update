@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "2.2.0.2",
+  "latest_version": "2.2.1.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Correção na validação dos backups Cloud.",
+  "message": "Melhorias no tema Dark, inicialização e comunicados.",
   "published_at": "2026-09-23",
   "announcement": {
     "enabled": false,

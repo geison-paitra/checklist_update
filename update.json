@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.2.1.1",
+  "latest_version": "2.3.0.0",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Melhorias no tema Dark, inicialização e comunicados.",
-  "published_at": "2026-09-23",
+  "message": "Melhorias no tema Dark e personalização do checklist.",
+  "published_at": "2026-09-24",
   "announcement": {
     "enabled": false,
     "id": "",

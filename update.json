@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "2.3.0.2",
-  "importance": "important",
-  "title": "Atualização importante disponível",
-  "message": "Correção de tempo de timeout pra se conectar em clientes lentos.",
+  "latest_version": "2.3.0.3",
+  "importance": "normal",
+  "title": "Nova versão disponível",
+  "message": "Correção da lógica do backup Data Pump que não encontrava logs de backups FULL e gerava erro mesmo quando finalizavam com sucesso. // Identificação correta do backup remoto separado por pastas full e arch.",
   "published_at": "2026-09-24",
   "announcement": {
     "enabled": false,

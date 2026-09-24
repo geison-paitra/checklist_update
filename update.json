@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "2.3.0.1",
-  "importance": "normal",
-  "title": "Nova versão disponível",
-  "message": "Implementação de personalização do checklist, correção de bugs e tema Dark.",
+  "latest_version": "2.3.0.2",
+  "importance": "important",
+  "title": "Atualização importante disponível",
+  "message": "Correção de tempo de timeout pra se conectar em clientes lentos.",
   "published_at": "2026-09-24",
   "announcement": {
     "enabled": false,

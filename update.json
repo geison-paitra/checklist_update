@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.3.0.3",
+  "latest_version": "2.3.0.4",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Correção da lógica do backup Data Pump que não encontrava logs de backups FULL e gerava erro mesmo quando finalizavam com sucesso. // Identificação correta do backup remoto separado por pastas full e arch.",
-  "published_at": "2026-09-24",
+  "message": "Correção da listagem dos backups remotos e suporte à rotina TkRmanIncremental.sh.",
+  "published_at": "2026-09-25",
   "announcement": {
     "enabled": false,
     "id": "",

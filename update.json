@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.3.0.5",
+  "latest_version": "2.3.1.0",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Correção na validação de múltiplos backups Data Pump no mesmo servidor.",
-  "published_at": "2026-09-25",
+  "message": "Correção de problema de identificação ao localizar logs de backup que utilizam o PDB como parâmetro. O relatório passa a evidenciar quando a variável COPIA_REMOTA=N.",
+  "published_at": "2026-10-02",
   "announcement": {
     "enabled": false,
     "id": "",

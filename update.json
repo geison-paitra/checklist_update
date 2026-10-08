@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.3.1.0",
+  "latest_version": "2.4.1.0",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Correção de problema de identificação ao localizar logs de backup que utilizam o PDB como parâmetro. O relatório passa a evidenciar quando a variável COPIA_REMOTA=N.",
-  "published_at": "2026-10-02",
+  "message": "Correção na avaliação dos backups Cloud, melhorias na documentação e suspensão temporária do monitoramento Zabbix.",
+  "published_at": "2026-10-08",
   "announcement": {
     "enabled": false,
     "id": "",

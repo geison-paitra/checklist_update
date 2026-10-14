@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "2.4.2.1",
+  "latest_version": "2.4.3.2",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Personalização das verificações de standby, suporte a rotinas Data Pump personalizadas e correção de inicialização.",
+  "message": "Melhorias nas verificações de standby, Data Pump e tablespaces dos PDBs, identificação dos filesystems na multiplexação e documentação sobre como salvar a personalização do checklist.",
   "published_at": "2026-10-14",
   "announcement": {
     "enabled": false,

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.4.1.0",
+  "latest_version": "2.4.2.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Correção na avaliação dos backups Cloud, melhorias na documentação e suspensão temporária do monitoramento Zabbix.",
-  "published_at": "2026-10-08",
+  "message": "Personalização das verificações de standby, suporte a rotinas Data Pump personalizadas e correção de inicialização.",
+  "published_at": "2026-10-14",
   "announcement": {
     "enabled": false,
     "id": "",

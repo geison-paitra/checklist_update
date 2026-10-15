@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.4.3.2",
+  "latest_version": "2.4.4.2",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Melhorias nas verificações de standby, Data Pump e tablespaces dos PDBs, identificação dos filesystems na multiplexação e documentação sobre como salvar a personalização do checklist.",
-  "published_at": "2026-10-14",
+  "message": "Melhoria na apresentação do sincronismo Data Guard, consulta simplificada e nova classificação dos backups RMAN no Oracle 11g, recuperação da conexão após timeout e suporte adicional à cópia remota dos backups.",
+  "published_at": "2026-10-15",
   "announcement": {
     "enabled": false,
     "id": "",

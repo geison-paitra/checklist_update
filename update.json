@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "2.4.4.2",
+  "latest_version": "2.5.0.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Melhoria na apresentação do sincronismo Data Guard, consulta simplificada e nova classificação dos backups RMAN no Oracle 11g, recuperação da conexão após timeout e suporte adicional à cópia remota dos backups.",
-  "published_at": "2026-10-15",
+  "message": "Pesquisa lateral de cliente, correção em timeouts para se conectar em ambientes AIX e correção na identificação dos bancos de dados oracle em ambientes AIX",
+  "published_at": "2026-10-16",
   "announcement": {
     "enabled": false,
     "id": "",

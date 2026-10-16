@@ -3,7 +3,7 @@
   "latest_version": "2.5.0.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Pesquisa lateral de cliente, correção em timeouts para se conectar em ambientes AIX e correção na identificação dos bancos de dados oracle em ambientes AIX",
+  "message": "Pesquisa lateral de clientes, ajustes de timeout em conexões SSH lentas e correção da identificação de instâncias Oracle em ambientes HP-UX.",
   "published_at": "2026-10-16",
   "announcement": {
     "enabled": false,

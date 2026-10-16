@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "2.6.0.0",
+  "latest_version": "2.6.0.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Melhorias nas coletas HP-UX e na identificação da retenção padrão RMAN, correção da consistência de versão e dos avisos de atualização, interface adaptada a janelas menores e abertura preferencial em Chrome, Edge ou Firefox. Inclui suporte opcional a versão mínima obrigatória, ainda desativado.",
+  "message": "Melhorias na leitura dos agendamentos de backup em HP-UX, com alternativa pela crontab do root quando necessário, e suporte à validação de logs de scripts personalizados de Data Pump e RMAN.",
   "published_at": "2026-10-16",
   "announcement": {
     "enabled": false,

@@ -5,6 +5,9 @@
   "title": "Atualização urgente",
   "message": "correção de checklist para containers com mais de 1 pdb",
   "published_at": "2026-10-16",
+  "minimum_version_enforced": true,
+  "minimum_version": "2.6.1.0",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 2.6.1.0 ou superior. Correção de checklist para containers com mais de 1 PDB.",
   "announcement": {
     "enabled": false,
     "id": "",

@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "2.6.2.0",
+  "latest_version": "3.0.0.1",
   "importance": "critical",
   "title": "Atualização crítica",
-  "message": "Correção crítica nas validações de ambientes multitenant com múltiplos PDBs, mantendo a validação individual das tablespaces e corrigindo o escopo de Data Pump e Backup Cloud.",
-  "published_at": "2026-10-19",
+  "message": "Correções nas verificações de backups em nó adicional (RMAN, Data Pump e Cloud), exibição da crontab dos dois nós, ajuste do botão Iniciar checklist e remoção do monitoramento Zabbix dos relatórios.",
+  "published_at": "2026-10-20",
   "minimum_version_enforced": true,
-  "minimum_version": "2.6.1.0",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 2.6.1.0 ou superior. Correção de checklist para containers com mais de 1 PDB.",
+  "minimum_version": "3.0.0.1",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.0.0.1 ou superior para continuar utilizando as verificações. Esta atualização corrige a coleta de backups em nó adicional.",
   "announcement": {
     "enabled": false,
     "id": "",

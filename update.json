@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "3.0.0.1",
+  "latest_version": "3.0.0.2",
   "importance": "critical",
   "title": "Atualização crítica",
-  "message": "Correções nas verificações de backups em nó adicional (RMAN, Data Pump e Cloud), exibição da crontab dos dois nós, ajuste do botão Iniciar checklist e remoção do monitoramento Zabbix dos relatórios.",
+  "message": "Correção da descoberta de instâncias Oracle por SSH em ambientes que encerram o shell antes da leitura completa dos marcadores; recuperação de saída e tentativa adicional sem PTY.",
   "published_at": "2026-10-20",
   "minimum_version_enforced": true,
-  "minimum_version": "3.0.0.1",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.0.0.1 ou superior para continuar utilizando as verificações. Esta atualização corrige a coleta de backups em nó adicional.",
+  "minimum_version": "3.0.0.2",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.0.0.2 ou superior para continuar utilizando as verificações. Esta atualização corrige a descoberta de instâncias Oracle por SSH.",
   "announcement": {
     "enabled": false,
     "id": "",

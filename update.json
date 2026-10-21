@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "3.0.0.2",
+  "latest_version": "3.0.0.4",
   "importance": "critical",
   "title": "Atualização crítica",
-  "message": "Correção da descoberta de instâncias Oracle por SSH em ambientes que encerram o shell antes da leitura completa dos marcadores; recuperação de saída e tentativa adicional sem PTY.",
-  "published_at": "2026-10-20",
+  "message": "Correção das novas verificações do tk Standby",
+  "published_at": "2026-10-21",
   "minimum_version_enforced": true,
-  "minimum_version": "3.0.0.2",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.0.0.2 ou superior para continuar utilizando as verificações. Esta atualização corrige a descoberta de instâncias Oracle por SSH.",
+  "minimum_version": "3.0.0.4",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.0.0.4 ou superior. Correção das novas verificações do tk Standby.",
   "announcement": {
     "enabled": false,
     "id": "",

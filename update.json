@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "3.0.0.5",
+  "latest_version": "3.0.1.0",
   "importance": "normal",
-  "title": "Nova versão disponível",
-  "message": "Melhoria na verificação do standby",
+  "title": "Atualização experimental",
+  "message": "Exibição do tempo decorrido nos testes de conexão Oracle/SQL*Plus e nós adicionais. Novas opções experimentais para atualizar o status no Zabbix e cancelar testes de conexão ou a execução do checklist, ambas desativadas por padrão.",
   "published_at": "2026-10-22",
   "minimum_version_enforced": true,
   "minimum_version": "3.0.0.4",

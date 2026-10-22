@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "latest_version": "3.0.0.5",
-  "importance": "critical",
-  "title": "Atualização crítica",
+  "importance": "normal",
+  "title": "Nova versão disponível",
   "message": "Melhoria na verificação do standby",
   "published_at": "2026-10-22",
   "minimum_version_enforced": true,

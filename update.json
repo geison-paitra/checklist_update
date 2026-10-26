@@ -6,8 +6,8 @@
   "message": "Atualização opcional para Windows server 2012: Atualização para correção de problemas no boot da aplicação no Windows server 2012",
   "published_at": "2026-10-26",
   "minimum_version_enforced": true,
-  "minimum_version": "3.3.0.0",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.3.0.0 ou superior. Essa versão introduz o armazenamento separado por usuário e a migração dos dados para evitar conflitos em ambientes Windows/WTS compartilhados.",
+  "minimum_version": "3.4.1.0",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.4.1.0 ou superior para continuar utilizando as operações do aplicativo.",
   "announcement": {
     "enabled": false,
     "id": "",

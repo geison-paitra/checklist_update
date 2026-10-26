@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "3.2.1.2",
+  "latest_version": "3.3.0.0",
   "importance": "normal",
   "title": "Nova versão disponível",
   "message": "Correções no checklist do cliente HMV: restauração do método anterior de conexão SSH/SQL*Plus, removendo as opções de inicialização que provocaram regressões em alguns ambientes, e proteção contra saídas automáticas de login que interferiam na identificação da versão Oracle. Outras melhorias: status dos backups RMAN 11g, filtro de registros com datas futuras, identificação do Data Pump METADATA_ONLY e exportação .flowti com ou sem DBA vinculado.",
   "published_at": "2026-10-23",
   "minimum_version_enforced": true,
-  "minimum_version": "3.1.0.0",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.1.0.0 ou superior. Essa versão introduz o armazenamento separado por usuário e a migração dos dados para evitar conflitos em ambientes Windows/WTS compartilhados.",
+  "minimum_version": "3.3.0.0",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.3.0.0 ou superior. Essa versão introduz o armazenamento separado por usuário e a migração dos dados para evitar conflitos em ambientes Windows/WTS compartilhados.",
   "announcement": {
     "enabled": false,
     "id": "",

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "3.4.1.0",
+  "latest_version": "3.4.1.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Atualização de interface de inicialização e opção de reset da base de dados para correção de apontamentos e disponibilidade integral de migração de dados",
+  "message": "Atualização opcional para Windows server 2012: Atualização para correção de problemas no boot da aplicação no Windows server 2012",
   "published_at": "2026-10-26",
   "minimum_version_enforced": true,
   "minimum_version": "3.3.0.0",

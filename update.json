@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "3.4.4.1",
+  "latest_version": "3.5.0.2",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "ajuste na avaliação da tablespace undo, threshold de excessão dos backups archives, visualização dos diskgroups em GB, análise ajustada para bigfiles e separação de grupos",
+  "message": "Implementação da verificação de destino de archives e correções",
   "published_at": "2026-10-27",
   "minimum_version_enforced": true,
-  "minimum_version": "3.4.1.0",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.4.1.0 ou superior para continuar utilizando as operações do aplicativo.",
+  "minimum_version": "3.5.0.2",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.5.0.2 ou superior para continuar utilizando as operações do aplicativo.",
   "announcement": {
     "enabled": false,
     "id": "",

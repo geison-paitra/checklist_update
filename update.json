@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "latest_version": "3.6.2.6",
+  "latest_version": "3.6.3.1",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Correções de diversos bugs no checklist em arquiteturas RAC",
+  "message": "Correção na identificação do TkStandby em ambientes CDB onde em alguns casos gerava o erro ORA-12850",
   "published_at": "2026-10-29",
   "minimum_version_enforced": true,
   "minimum_version": "3.5.0.2",

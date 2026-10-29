@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "latest_version": "3.6.0.1",
+  "latest_version": "3.6.2.6",
   "importance": "normal",
   "title": "Nova versão disponível",
-  "message": "Atualização para checklist de ambientes RAC",
-  "published_at": "2026-10-28",
+  "message": "Correções de diversos bugs no checklist em arquiteturas RAC",
+  "published_at": "2026-10-29",
   "minimum_version_enforced": true,
   "minimum_version": "3.5.0.2",
   "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.5.0.2 ou superior para continuar utilizando as operações do aplicativo.",

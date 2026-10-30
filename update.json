@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "latest_version": "3.6.4.0",
+  "latest_version": "3.7.0.1",
   "importance": "important",
-  "title": "Atualização urgente disponível",
-  "message": "Correção de geração de alerta do checklist para checagens que precisam ler a crontab por não conseguir acessar root para checar a existência de crontab quando o método de acesso SSH é feito pelo usuario do oracle || Recomendado utilizar o root enquanto não atualiza para a 3.6.4.0 - Atualização 3.6.4.0 será obrigatoria em breve",
+  "title": "Atualização importante — Segurança e RU Oracle",
+  "message": "Disponível o Checklist Oracle Portable 3.7.0.1 com nova verificação de segurança da Release Update (RU): compara a RU em uso com a referência publicada pela Oracle, alerta sobre defasagem e prioriza a recomendação de atualização para incorporar correções de vulnerabilidades. Quando aplicável, o upgrade da versão do banco continua prioritário. Segurança aparece após a identificação da versão, com relatório mais objetivo para o cliente. Ausência de destino de archive MANDATORY passa a gerar ATENÇÃO. Atualize para aproveitar as melhorias de segurança e avaliação. A versão mínima obrigatória do Checklist passa a ser 3.6.4.0.",
   "published_at": "2026-10-30",
   "minimum_version_enforced": true,
-  "minimum_version": "3.5.0.2",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.5.0.2 ou superior para continuar utilizando as operações do aplicativo.",
+  "minimum_version": "3.6.4.0",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.6.4.0 ou superior para continuar utilizando as operações do aplicativo.",
   "announcement": {
     "enabled": false,
     "id": "",

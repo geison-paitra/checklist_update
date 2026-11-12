@@ -6,8 +6,8 @@
   "message": "Formatação do e-mail corrigida e envio de confirmação ao Zabbix ativo por padrão. Incluído modo desenvolvedor para separar e manter desabilitado opções experimentais por padrão",
   "published_at": "2026-11-09",
   "minimum_version_enforced": true,
-  "minimum_version": "3.6.4.0",
-  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.6.4.0 ou superior para continuar utilizando as operações do aplicativo.",
+  "minimum_version": "3.8.2.0",
+  "minimum_version_message": "É necessário atualizar o Checklist Oracle para a versão 3.8.2.0 ou superior para continuar utilizando as operações do aplicativo.",
   "announcement": {
     "enabled": false,
     "id": "",

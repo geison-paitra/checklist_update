@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "latest_version": "26.0.1.1",
-  "importance": "important",
+  "importance": "normal",
   "title": "26.0.1.1 — Rolagem da documentação corrigida",
   "message": "Agora é possível percorrer todo o manual Oracle com a roda do mouse ou pelo teclado, inclusive em janelas menores. O novo capítulo 11.1 explica como o checklist identifica as rotinas de backup Flowti e verifica a conclusão nos logs.",
   "published_at": "2026-11-24",
